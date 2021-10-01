@@ -28,7 +28,6 @@
         flex: 50%;
         display: -webkit-inline-box;
         position: relative;
-        background-color:white ;
         border-radius: 0 10px 10px 0;
     }
     .image::after{
@@ -43,7 +42,7 @@
     
     .img-desktop{
         display: block;
-        opacity: 75%;
+        opacity: 70%;
         border-radius:0 10px 10px 0 ;
     }
     #headline{
