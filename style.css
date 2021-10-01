@@ -26,6 +26,7 @@
     }
     .image{
         flex: 50%;
+        background-color: white;
         display: -webkit-inline-box;
         position: relative;
         border-radius: 0 10px 10px 0;
